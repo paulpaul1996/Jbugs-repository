@@ -1,0 +1,5 @@
+edu\msg\ro\persistence\entity\Bug.class
+edu\msg\ro\persistence\entity\BaseEntity.class
+edu\msg\ro\persistence\entity\Comment.class
+edu\msg\ro\persistence\dao\CommentDao.class
+edu\msg\ro\persistence\entity\TestEntity.class
